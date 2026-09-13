@@ -34,3 +34,7 @@
 
 #### Free Thinking
 > Brainstorming for game ideas, with the knowledge that we will need to make a physical prototype in mind, I am thinking of making sort of a worker placement game, but with dice. At the moment, I'm leaning towards a farming theme? Like you roll the dice, and then have to decide what number you want to be planting seeds, what number you want to be delivering the products, buying new seeds, or something along those lines. Needs refinement for sure, but trying to get basic ideas down for now.
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+> Flesh out game idea and ensure everything is in fact set up properly <!--Your entry here or N/A if not applicable for this entry-->
