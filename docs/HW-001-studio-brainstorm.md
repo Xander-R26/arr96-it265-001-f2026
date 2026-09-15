@@ -2,12 +2,12 @@
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
+  - Backstage Studios 
+  - Pick up Styx
   - [Insert name idea 3]
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
+  - Ramsdell Studios
+  - In The Wings Studios
   - [Insert alternative name idea 3]
 
 - **Chosen Name**:
@@ -62,11 +62,11 @@
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
+- **Game Engine(s):** Unity
 - **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
 - **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Version Control:** Github
+- **Publishing Platforms:** Itch.io, Github pages
 
 ---
 
